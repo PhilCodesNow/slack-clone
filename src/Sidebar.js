@@ -42,6 +42,7 @@ function Sidebar() {
                 <hr/>
                 <SidebarIcon Icon={AddIcon} addChannelOptions title="Add Chanel"/>
                 {/* Connect to db and list all channels */}
+                {/* SidebarOption ..../>  mapping through them */}
 
         </div>
     )
