@@ -3,6 +3,12 @@ import "./SidebarOption.css";
 import { useHistory } from "react-router-dom";
 import db from "./firebase";
 
+
+{/* THIS IS FROM LAPTOP
+
+THIS IS TOO*/}
+
+
 function SidebarOption({ Icon, title, id, addChannelOption }) {
     const history = useHistory();
     const selectChannel = () =>{
